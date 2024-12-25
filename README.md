@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=squadron-leader" alt="squadron-leader" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=squadron-leader" alt="squadron-leader" /></a> </p>
 
 - 🌱 I’m currently learning **advanced backend frameworks**
 
@@ -41,4 +41,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=squadron-leader&show_icons=true&locale=en" alt="squadron-leader" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=squadron-leader&label=Profile%20views&color=0e75b6&style=flat" alt="squadron-leader" /> </p>
+
+
+![snake gif](https://github.com/SQUADRON-LEADER/SQUADRON-LEADER/blob/output/github-snake-dark.svg)
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=squadron-leader&label=Profile%20views&color=0e75b6&style=flat" alt="squadron-leader" /> </div>
