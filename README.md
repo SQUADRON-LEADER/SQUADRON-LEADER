@@ -1,12 +1,10 @@
-
-
 <h1 align="center">Hi 👋, I'm AAYUSH KUMAR</h1>
 <h3 align="center">Passionate Full-Stack Developer | DSA Enthusiast | Building Scalable Solutions One Line of Code at a Time</h3>
 
 <div align="center"><br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/><br></div>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=squadron-leader" alt="squadron-leader" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=squadron-leader&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 
 - 🌱 I’m currently learning **advanced backend frameworks**
@@ -42,9 +40,12 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squadron-leader&show_icons=true&locale=en&layout=compact" alt="squadron-leader" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=squadron-leader&show_icons=true&locale=en" alt="squadron-leader" /></p>
+
+![](https://github-readme-stats.vercel.app/api?username=squadron-leader&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=squadron-leader&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=squadron-leader&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
