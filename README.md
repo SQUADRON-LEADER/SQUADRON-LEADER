@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm AAYUSH KUMAR</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar!;" />
+</h1>
 <h3 align="center">Passionate Full-Stack Developer | DSA Enthusiast | Building Scalable Solutions One Line of Code at a Time</h3>
 
 <div align="center"><br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/><br></div>
@@ -43,7 +45,11 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=squadron-leader&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=squadron-leader&theme=dark&hide_border=false)<br/>
+<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=squadron-leader&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
