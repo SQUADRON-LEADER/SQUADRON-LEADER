@@ -52,6 +52,10 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=squadron-leader&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 ![snake gif](https://github.com/SQUADRON-LEADER/SQUADRON-LEADER/blob/output/github-snake-dark.svg)
 
