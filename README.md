@@ -58,6 +58,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/146/14623.gif" width="30%" alt="Soul image gif">
 
 
 
