@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **aayush05.af@gmail.com**
 
-- 📄 Know about my experiences [full-stack development](full-stack development)
+- 📄 Know about my experiences full-stack development.
 
 - ⚡ Fun fact **I can solve complex coding problems faster than I can decide what to eat for lunch!**
 <br>
