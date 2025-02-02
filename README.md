@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar!;" />
 </h1>
@@ -26,6 +29,13 @@
 - 📄 Know about my experiences full-stack development.
 
 - ⚡ Fun fact **I can solve complex coding problems faster than I can decide what to eat for lunch!**
+
+ <details open>
+<summary>Developer Quote</summary>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+</p>
+</details>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
