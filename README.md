@@ -11,7 +11,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=squadron-leader&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
-
+## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 - 🌱 I’m currently learning **advanced backend frameworks**
 
 - 👯 I’m looking to collaborate on **innovative full-stack development projects**
