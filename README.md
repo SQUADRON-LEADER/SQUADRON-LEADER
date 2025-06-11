@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on **data structures and algorithms**
 
-- 💬 Ask me about **full-stack development**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Ask me about **full-stack development**
 
 - 📫 How to reach me **aayush05.af@gmail.com** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
