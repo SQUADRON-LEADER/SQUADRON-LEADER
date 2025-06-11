@@ -12,7 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=squadron-leader&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-- 🌱 I’m currently learning **advanced backend frameworks**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m currently learning **advanced backend frameworks**
 
 - 👯 I’m looking to collaborate on **innovative full-stack development projects**
 
@@ -24,13 +24,14 @@
 
 - 💬 Ask me about **full-stack development**
 
-- 📫 How to reach me **aayush05.af@gmail.com**
+- 📫 How to reach me **aayush05.af@gmail.com** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 - 📄 Know about my experiences full-stack development
 
 - ⚡ Fun fact **I can solve complex coding problems faster than I can decide what to eat for lunch!**
 
 - 📫 How to collaborate with me **https://www.linkedin.com/in/aayush-kumar-146252314/**
+
 
  <details open>
 <summary>Developer Quote</summary>
