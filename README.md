@@ -65,6 +65,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=squadron-leader&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-contributor-stats.vercel.app/api?username=squadron-leader&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://user-images.githubusercontent.com/76477365/120953404-84003900-c76a-11eb-99ff-f9887532944e.png" style="margin-left:20px;" alt="alt text" width="200px" height="200px" >
 
 <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=squadron-leader&theme=github_dark" alt="Profile Summary" width="600" />
