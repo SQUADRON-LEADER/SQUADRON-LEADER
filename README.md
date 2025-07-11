@@ -87,7 +87,6 @@
 <br><br>
 
 ---
----
 
 ## 📈 GitHub Profile Summary
 <br>
@@ -103,9 +102,15 @@
 <p align="center">
   <img src="https://giffiles.alphacoders.com/146/14623.gif" width="30%" alt="Soul image gif">
 
+---
+## 🐍 Snake Eating My Contributions
+<br>
+<div align="center">
+  <img src="https://github.com/SQUADRON-LEADER/SQUADRON-LEADER/blob/output/github-snake-dark.svg" />
+</div>
+<br><br>
 
-
-![snake gif](https://github.com/SQUADRON-LEADER/SQUADRON-LEADER/blob/output/github-snake-dark.svg)
+---
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=squadron-leader&label=Profile%20views&color=0e75b6&style=flat" alt="squadron-leader" />
 
