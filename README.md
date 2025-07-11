@@ -10,8 +10,17 @@
 <div align="center"><br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/><br></div>
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=squadron-leader&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## 🏆 GitHub Trophies
 <br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=squadron-leader&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+<br><br>
+
+---
+
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m currently learning **advanced backend frameworks**
 
