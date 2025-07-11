@@ -4,7 +4,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar!;" />
 </h1>
-<h3 align="center">Passionate Full-Stack Developer | DSA Enthusiast | Building Scalable Solutions One Line of Code at a Time</h3>
+
+<h3 align="center">Passionate Full-Stack Developer | DSA Enthusiast | Building Scalable Solutions One Line of Code at a Time </h3>
 
 <div align="center"><br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/><br></div>
 <br>
