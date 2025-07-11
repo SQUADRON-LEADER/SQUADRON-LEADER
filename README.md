@@ -58,9 +58,7 @@
 
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=squadron-leader&layout=compact&langs_count=8&theme=dark)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=squadron-leader&theme=dark&hide_border=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api?username=squadron-leader&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=squadron-leader&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
