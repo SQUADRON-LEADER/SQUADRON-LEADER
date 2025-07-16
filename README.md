@@ -104,7 +104,7 @@
 
 ---
 ## 🐍 Snake Eating My Contributions
-<br>
+
 <div align="center">
   <img src="https://github.com/SQUADRON-LEADER/SQUADRON-LEADER/blob/output/github-snake-dark.svg" />
 </div>
