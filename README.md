@@ -42,7 +42,7 @@
 
 - 📫 How to collaborate with me **https://www.linkedin.com/in/aayush-kumar-146252314/**
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  <details open>
 <summary>Developer Quote</summary>
 <p align="center">
