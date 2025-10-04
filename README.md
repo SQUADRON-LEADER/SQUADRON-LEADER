@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **innovative full-stack development projects**
 
-- 🤝 I’m looking for help with **ontributing to open-source projects**
+- 🤝 I’m looking for help with **on contributing to open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://squadron-leader.github.io/PORTFOLIO/](https://squadron-leader.github.io/MORDERN-PORT/)
 
