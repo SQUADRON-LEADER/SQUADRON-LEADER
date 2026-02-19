@@ -105,14 +105,16 @@
 </div>
 <br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p align="center">
   <img src="https://giffiles.alphacoders.com/146/14623.gif" width="30%" alt="Soul image gif">
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
@@ -120,7 +122,8 @@
 </div>
 <br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=squadron-leader&label=Profile%20views&color=0e75b6&style=flat" alt="squadron-leader" />
 
