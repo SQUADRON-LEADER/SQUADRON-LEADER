@@ -107,6 +107,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=squadron-leader&theme=github_dark" width="600" />
 </div>
+<img src="https://github.com/kr1shnasomani/kr1shnasomani/blob/9df64164ac6563533e624b41eef0ce72f02f8a16/GIF2.gif" height="200cm" />
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
