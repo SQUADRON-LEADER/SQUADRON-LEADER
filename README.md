@@ -59,6 +59,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
+
+<img align="right" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/75ee72bac5b4ef8c4de1127e730fa867badac9f2/GIF3.gif" width="330" height="186"/>
+<div align="left">
+    
 <p align="left">
 <a href="https://twitter.com/aayush_kr_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayush_kr_gupta" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aayush-kumar-146252314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-kumar-146252314/" height="30" width="40" /></a>
