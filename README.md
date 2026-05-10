@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar!;" /> <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 </h1>
 
 <h3 align="center">Passionate Full-Stack Developer | DSA Enthusiast | Building Scalable Solutions One Line of Code at a Time </h3>
