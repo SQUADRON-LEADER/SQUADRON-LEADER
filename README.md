@@ -81,7 +81,7 @@
 
 <br><br>
 
-<div style="position: relative; width: 850px; margin: auto;">
+<div style="position: relative; width: 750px; margin: auto;">
 
 <picture>
   <source 
