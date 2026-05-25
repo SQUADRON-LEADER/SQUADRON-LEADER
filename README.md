@@ -45,16 +45,6 @@
 - ⚡ Fun fact **I can solve complex coding problems faster than I can decide what to eat for lunch!**
 
 - 📫 How to collaborate with me **https://www.linkedin.com/in/aayush-kumar-146252314/**
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- <details open>
-     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<summary>Developer Quote</summary>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
-</p>
-</details>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
