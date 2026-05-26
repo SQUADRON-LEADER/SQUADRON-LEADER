@@ -111,6 +111,17 @@
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,jupyter" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Testing</strong></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=jest" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" />
+
 </td>
 </tr>
 
