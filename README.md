@@ -157,6 +157,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 ## 📈 Contribution Stack
 
 <div align="center">
@@ -166,8 +167,6 @@
 </a>
 
 <br><br>
-
-<div style="position: relative; width: 750px; margin: auto;">
 
 <picture>
   <source 
@@ -187,20 +186,14 @@
   />
 </picture>
 
+<br><br>
+
 <img 
   src="https://user-images.githubusercontent.com/76477365/120953404-84003900-c76a-11eb-99ff-f9887532944e.png"
   width="180"
-  style="position:absolute; bottom:10px; right:10px;"
 />
 
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
 ## 📈 GitHub Profile Summary
 <br>
 <div align="center">
