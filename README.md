@@ -194,6 +194,7 @@
 />
 
 </div>
+
 ## 📈 GitHub Profile Summary
 <br>
 <div align="center">
