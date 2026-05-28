@@ -67,6 +67,8 @@
 
 ## 💻 Tech Stack
 
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/SQUADRON-LEADER)
+
 <table align="center">
 
 <tr>
@@ -156,6 +158,8 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/SQUADRON-LEADER)
 
 
 ## 📈 Contribution Stack
