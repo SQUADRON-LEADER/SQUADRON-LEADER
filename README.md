@@ -16,11 +16,11 @@
 
 ## 🏆 GitHub Trophies
 
-<br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=squadron-leader&theme=radical&no-frame=false&no-bg=true&margin-w=4" />      <img src="./assets/kyubey.gif" height="55" align="right" />
+
+![](https://github-trophies.vercel.app/?username=SQUADRON-LEADER&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
