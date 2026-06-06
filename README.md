@@ -199,7 +199,7 @@
 
 </div>
 
-## 📈 GitHub Profile Summary
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Profile Summary
 <br>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=squadron-leader&theme=github_dark" width="600" />
