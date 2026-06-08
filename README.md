@@ -162,7 +162,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/SQUADRON-LEADER)
 
 
-## 📈 Contribution Stack
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp; Contribution Stack
 
 <div align="center">
 
