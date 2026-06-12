@@ -65,7 +65,7 @@
 
 <br> 
 
-## 💻 Tech Stack
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Tech Stack
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/SQUADRON-LEADER)
 
