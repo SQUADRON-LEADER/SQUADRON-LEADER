@@ -19,6 +19,7 @@
 <div align="center">
 
 ![](https://github-trophies.vercel.app/?username=SQUADRON-LEADER&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<img align="right" src="https://github.com/user-attachments/assets/6d5dd19b-f80d-4b46-993a-7ed96a5db51b" width="220" alt="coding gif"/>
 
 </div>
 
