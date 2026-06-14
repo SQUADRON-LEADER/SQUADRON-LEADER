@@ -14,7 +14,7 @@
 
 <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px">
 
-## 🏆 GitHub Trophies
+## <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif?cid=ecf05e47nfhfh6dzq7v2j8p8s0h31w7r4i6p7o7z8ixj0g7c&rid=giphy.gif" width="22px" align="top"/> &nbsp;🏆 GitHub Trophies
 
 <div align="center">
 
