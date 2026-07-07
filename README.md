@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 
 
-<h1 align="center">
+<h1 align="center"><img src="https://raw.githubusercontent.com/Sukhmanpreetkaur18/Sukhmanpreetkaur18/main/pikachu.gif" width="40" style="vertical-align:middle; margin-right:10px;" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar!;" /> <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 </h1>
 
