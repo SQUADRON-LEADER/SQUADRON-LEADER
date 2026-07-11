@@ -35,7 +35,7 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 
 - 🤝 I’m looking for help with **on contributing to open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://squadron-leader.github.io/PORTFOLIO/](https://squadron-leader.github.io/MORDERN-PORT/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://squadron-leader.github.io/MORDERN-PORT/)
 
 - 📝 I regularly write articles on **data structures and algorithms**
 
