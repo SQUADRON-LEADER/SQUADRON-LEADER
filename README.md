@@ -131,10 +131,11 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 </tr>
 
 <tr>
-<td align="center"><strong>AI / Tools</strong></td>
+<td align="center"><strong>AI / Agentic AI / Tools</strong></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,n8n" />
 
 </td>
 </tr>
@@ -143,7 +144,7 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 <td align="center"><strong>Languages</strong></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 </td>
 </tr>
