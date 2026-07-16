@@ -131,7 +131,7 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 </tr>
 
 <tr>
-<td align="center"><strong>AI / Agentic AI / Tools</strong></td>
+<td align="center"><strong><strong>AI Ecosystem</strong></strong></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
