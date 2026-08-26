@@ -11,7 +11,9 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 </h3>
 <div align="center"><br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/><br></div>
 <br>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=squadron-leader&label=Profile%20views&color=0e75b6&style=flat" alt="squadron-leader" />
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br><br><br></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="60px">
@@ -234,9 +236,7 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=squadron-leader&label=Profile%20views&color=0e75b6&style=flat" alt="squadron-leader" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br><br><br>
+<div align="center"> <br><br><br>
   <img src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/end.gif"  width="40%"></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
