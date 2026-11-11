@@ -177,36 +177,18 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 <div align="center">
 
 <a href="https://github.com/SQUADRON-LEADER">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=SQUADRON-LEADER&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=SQUADRON-LEADER&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
 </a>
 
-<br><br>
-
+<a href="https://github.com/SQUADRON-LEADER">
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://mygithubinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false"
-  />
-
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://mygithubinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false"
-  />
-
-  <img 
-    src="https://mygithubinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false"
-    alt="GitHub Insight"
-    width="850"
-  />
+<source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+  <img src="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card" width="850" />
+  </a>
 </picture>
-
-<br><br>
-
-<img 
-  src="https://user-images.githubusercontent.com/76477365/120953404-84003900-c76a-11eb-99ff-f9887532944e.png"
-  width="180"
-/>
-
+</a>
+  
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Profile Summary
