@@ -179,13 +179,11 @@ Building AI-Powered, Scalable & Impactful Software Solutions While Solving Real-
 <a href="https://github.com/SQUADRON-LEADER">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=SQUADRON-LEADER&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
 </a>
-
 <a href="https://github.com/SQUADRON-LEADER">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
-  <img src="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card" width="850" />
-  </a>
+<source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true">
+<img src="https://yourinsights.vercel.app/api/insight?username=SQUADRON-LEADER&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Card" width="850" /></a>
 </picture>
 </a>
   
